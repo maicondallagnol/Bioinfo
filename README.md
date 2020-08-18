@@ -14,7 +14,7 @@ Para funcionamento total deste programa deve-se executá-lo tendo as seguintes c
 ### Como executar
 Para execução do programa utilize-se do python3 para executar o arquivo rep_finder.py passando os argumentos:
 
-    -i	: arquivo de entrada em txt
+    -i: arquivo de entrada em txt
     -o: arquivo de saída em .xlsx
     -s: suporte mínimo de ocorrência de uma repetição (valor absoluto ou valor relativo com %)
     -h: ajuda para execução
